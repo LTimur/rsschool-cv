@@ -19,7 +19,7 @@
 * Git
 * VSCode
 
-### Experience
+### Experience:
 
 #### April 2019 - present // Mediaguru, Web Analyst
 
