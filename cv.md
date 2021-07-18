@@ -2,18 +2,18 @@
 
 ## Junior Frontend Developer
 
-Location: Moscow
-Telegram: @ledtimur
-Email: ledenev-timur@ya.ru
-Github: https://github.com/LTimur
+*Location: Moscow
+*Telegram: @ledtimur
+*Email: ledenev-timur@ya.ru
+*Github: https://github.com/LTimur
 
 ### Skills:
-HTML
-CSS
-Javascript
-SQL
-Git
-VSCode
+*HTML
+*CSS
+*Javascript
+*SQL
+*Git
+*VSCode
 
 ### Experience
 
@@ -43,6 +43,6 @@ Saint-Petersburg State University
 BA in International relations (American studies)
 
 ### Languages:
-English (С1+)
-French (A2+)
-Russian (native)
+*English (С1+)
+*French (A2+)
+*Russian (native)
