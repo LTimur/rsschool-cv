@@ -34,7 +34,7 @@
 Worked in a international freelancers team. We provided dashboards in Power BI and Google Data Studio for top-managers.
 
 Major focus on Firebase analysis
-- Prepared a template for the Firebase dashboard in Google Data Studio (collecting KPIs needed, extracting data from Google BigQuery Firebase dataset and further visualisation)
+- Prepared a template for the Firebase dashboard in Google Data Studio (collecting KPI needed, extracting data from Google BigQuery Firebase dataset and further visualization)
 - Participated in projects concerning dashboards for digital advertising analysis
 
 Since January 2021 worked in pair with a teammate as a project manager (tasks delegation, deadlines control, cross-checking, mentoring)
