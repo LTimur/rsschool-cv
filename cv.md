@@ -18,6 +18,7 @@
 * SQL
 * Git
 * VSCode
+* Figma
 
 ### Experience:
 
