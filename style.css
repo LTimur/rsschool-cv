@@ -1,0 +1,130 @@
+* { margin:0; 
+    padding:0; 
+}
+
+.header{
+    margin-top: 46px;
+}
+
+.wrapper {
+    width:960px;
+    margin:0 auto;
+}
+
+.header__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+  
+.photo {
+    margin-right: 75px;
+    width: 180px; 
+    height: 180px; /* Ширина и высота */
+    border-radius: 50%; /* Превращаем в круг */
+    background: url(photo.jpg) no-repeat -20px 0; /* Параметры фона */
+    background-size: auto 300px; /* Высота фотографии равна высоте элемента */
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+h2{
+    font-size: 19px;
+    font-weight: bold;
+    font-family: 'IBM Plex Sans', sans-serif;    
+    color: #5f9ea0;
+}
+
+h3 {
+    font-size: 19px;
+    font-weight: bold;
+    font-family: 'IBM Plex Sans', sans-serif;   
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'IBM Plex Sans', sans-serif; 
+    color: grey;
+}
+
+h4 span{
+    font-size: 18px;
+    font-weight: normal;
+    font-family: 'IBM Plex Sans', sans-serif; 
+    color: grey;
+}
+
+.header__info p {
+    margin-top:14px;
+    font-size: 16px;
+    font-weight: regular;
+    font-family: 'IBM Plex Sans', sans-serif; 
+}
+
+/* main */
+ul li {
+    list-style: none;
+    font-size: 15px;
+    font-family: 'IBM Plex Sans', sans-serif; 
+    line-height: 1.5em;
+}
+
+main {
+    margin-top:50px;
+}
+
+main .wrapper{
+    display:flex;
+    flex: row;
+}
+
+.experience__element {
+    margin-top:20px;
+}
+
+.experience__element ul {
+    padding-bottom: 10px;
+}
+
+.skills p,
+.experience__element p {
+    font-size: 15px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    line-height: 1.5em;
+}
+
+.period {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'IBM Plex Sans', sans-serif; 
+    color: #5f9ea0;
+}
+
+.main__column2 {
+    margin-left:50px;
+    display:flex;
+    flex: row;
+    flex-wrap: wrap;
+    width: 60%
+}
+
+/* footer */
+
+footer {
+    margin-top: 20px;
+}
+
+footer p{
+    text-align: center;
+}
+
+.footer__logo {
+    width: 50px;
+    float: right;
+    margin-right: 50px;
+}
